@@ -1,1 +1,2 @@
-﻿console.log("Hello, AI Chatbot!");
+﻿console.log("Redeploying...");
+.log("Hello, AI Chatbot!");
